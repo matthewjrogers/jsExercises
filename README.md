@@ -1,2 +1,2 @@
 # jsExercises
-Old Javascript exercises
+Old Javascript exercises from Burlington Code Academy coursework
